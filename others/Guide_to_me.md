@@ -1,7 +1,7 @@
 # This is the advice that I would have given to my younger self who was just getting started at web development
 
 ## 1).Believe me you are not growing you are just in tutorial hell
- Stop watching tutorials and tagging along by copying th code  from the tutorial and start building. I know you are not able to build your dream project on your own but don't worry start small build a small todo list , if you get stuck than read doccumentation, Unable to solve bugs look for solutions in github but build stuff yourself that's the only way you can grow.
+ Stop watching tutorials and tagging along by copying the code  from the tutorial and start building. I know you are not able to build your dream project on your own but don't worry start small build a small todo list , if you get stuck than read documentation, Unable to solve bugs look for solutions in github but build stuff yourself that's the only way you can grow.
 
  ## 2). Drop windows and shift to linux based OS
  I know you think that's it a lot of effort you would have to learn operating all together a new OS but believe me it's worth the effort. You would be able to develop better and faster. First it would be difficult but later it will become wonderful, better performance, shell scripts will become your best friend and development will become much more easier.
