@@ -47,3 +47,6 @@ export const metadata: Metadata = {
 };
 ```
 ## Now when user enters this page in your website the title will become Name of your page || Xyz
+
+
+                   

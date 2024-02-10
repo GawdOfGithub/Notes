@@ -14,9 +14,10 @@ array.splice(start, deleteCount, item1, item2, ...);
 // Case 1: Remove elements starting from index 1 (banana) with deleteCount 2
 let removedElements = fruits.splice(1, 2);
 console.log('Removed Elements:', removedElements);
-console.log('Modified Array:', fruits);
 // Output: Removed Elements: ['banana', 'cherry']
-//         Modified Array: ['apple', 'date']
+console.log('Modified Array:', fruits);
+
+// Output:  Modified Array: ['apple', 'date']
 
 // Case 2: Insert 'kiwi' and 'grape' starting from index 1, without removing any elements
 fruits.splice(1, 0, 'kiwi', 'grape');
