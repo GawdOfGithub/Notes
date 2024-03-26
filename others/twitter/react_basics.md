@@ -34,5 +34,3 @@ useState is a react hook and if you don't know what a hook is than --> click her
 
 
 
-
-

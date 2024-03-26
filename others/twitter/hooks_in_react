@@ -1,0 +1,18 @@
+Read this thread to understand react hooks under 5 minutes
+Before understanding react hooks you would first  need to know a little history of react, so previously unlike today react  relied on classes for advance use cases like state management,react lifecycle management(maybe you would have heard about the term component on mount and component will mount) but the thing is classes are a little bit complex in react(this keyword behaves differently in js compared to other languages) so classes were making stuff complicated so React team decided to rely totally on functions and components and ditch class based react all together and to simply use functional components for everything.
+
+ ----> So what react team did was that they totally ditched classes and made react totally functional component based and instead of relying on classes for state and lifecycle management react team introduced hooks. 
+ Few examples-->
+ useState for state(memory) management.
+ useEffect for managing lifecycle of a component.
+ useRef(persisting values across various renders)
+To summarize -->
+Previously -->
+React was functional components + class based react (for state and lifecycle management)
+Now -->
+React is functional component + hooks (for state and lifecycle management)
+Important facts -->
+1.Hooks is an abstraction of class based react that is used to write react code without using class based react.
+2.Hooks always start with the word use.
+3.You can create your own hooks.
+4. Hooks can only be called at the top level of a component.
